@@ -19,7 +19,9 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools",
-				"ms-azuretools.vscode-docker"
+				"ms-azuretools.vscode-docker",
+				"AdaCore.ada",
+				"AdaCore.ada-debug"
 			],
 			"settings": {
 				"terminal.integrated.shell.linux": "/bin/bash"
