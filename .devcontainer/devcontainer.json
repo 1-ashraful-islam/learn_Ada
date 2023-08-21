@@ -20,7 +20,8 @@
 			"extensions": [
 				"ms-vscode.cpptools",
 				"AdaCore.ada",
-				"AdaCore.ada-debug"
+				"AdaCore.ada-debug",
+				"ms-vscode.cpptools-extension-pack"
 			],
 			"settings": {
 				"terminal.integrated.shell.linux": "/bin/bash"
