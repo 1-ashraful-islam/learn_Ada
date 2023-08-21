@@ -1,5 +1,7 @@
 # OS files
 .DS_Store
+# binary files
+bin
 
 # Object file
 *.o

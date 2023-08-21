@@ -19,7 +19,6 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools",
-				"ms-azuretools.vscode-docker",
 				"AdaCore.ada",
 				"AdaCore.ada-debug"
 			],
